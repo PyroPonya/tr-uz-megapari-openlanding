@@ -34,14 +34,14 @@ const langs = {
     btn: 'BONUS OLISH',
     bg: './assets/bg_uzb_desk.jpg',
     bg_mob: './assets/bg_uzb_mob.jpg',
-    link: 'https://refpaiozdg.top/L?tag=d_1948347m_54915c_subid1_subid2_subid3_subid4&pb=9c33946b6dd74eceb33c914f5a60c41b&click_id=%7Bclick_id%7D',
+    link: 'https://refpaiozdg.top/L?tag=d_1948347m_54915c_subid1_subid2_subid3_subid4&pb=9c33946b6dd74eceb33c914f5a60c41b&click_id={click_id}',
   },
   tr: {
     body: '%100 ilk para yatırma bonusunu alın!',
     btn: 'IKRAMIYE ALMAK',
     bg: './assets/bg_tr_desk.jpg',
     bg_mob: './assets/bg_tr_mob.jpg',
-    link: 'https://refpaiozdg.top/L?tag=d_1948517m_30577c_subid1_subid2_subid3_subid4&pb=7fbd0ce084884fd083a7a89b91f5a2e7&click_id=%7Bclick_id%7D',
+    link: 'https://refpaiozdg.top/L?tag=d_1948517m_30577c_subid1_subid2_subid3_subid4&pb=7fbd0ce084884fd083a7a89b91f5a2e7&click_id={click_id}',
   },
 };
 // redirectOR
