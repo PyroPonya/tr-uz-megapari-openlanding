@@ -34,14 +34,22 @@ const langs = {
     btn: 'BONUS OLISH',
     bg: './assets/bg_uzb_desk.jpg',
     bg_mob: './assets/bg_uzb_mob.jpg',
+    link: 'https://refpaiozdg.top/L?tag=d_1948347m_25437c_&site=1948347&ad=25437&r=registration/',
   },
   tr: {
     body: '%100 ilk para yatırma bonusunu alın!',
     btn: 'IKRAMIYE ALMAK',
     bg: './assets/bg_tr_desk.jpg',
     bg_mob: './assets/bg_tr_mob.jpg',
+    link: 'https://refpaiozdg.top/L?tag=d_1948517m_25437c_&site=1948517&ad=25437&r=registration/',
   },
 };
+// redirectOR
+document.querySelector('.a_btn').addEventListener('click', (e) => {
+  e.preventDefault();
+  window.location.assign(`${langs[currentLanguage].link}`);
+})
+// redirect end
 // set qwerty
 const setLang = (lang) => {
   const el = document.createElement('div');
