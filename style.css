@@ -58,20 +58,20 @@ body {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 800;
-  font-size: 80px;
-  line-height: 122.52%;
+  font-size: 75px;
+  line-height: 110%;
   letter-spacing: 0.03em;
   color: #FFFFFF;
-  margin-bottom: 35px;
+  margin-bottom: 20px;
 }
 .body_text {
   font-family: 'Inter';
   max-width: 550px;
   font-style: normal;
   font-weight: 700;
-  font-size: 64px;
-  line-height: 77px;
-  margin-bottom: 55px;
+  font-size: 60px;
+  line-height: 70px;
+  margin-bottom: 35px;
 
 color: #FFFFFF;
 }
